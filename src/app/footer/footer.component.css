@@ -1,0 +1,29 @@
+.navbar-fixed-bottom {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.copyrightColor {
+  color: blue;
+}
+
+.social {
+    padding: 20px;
+}
+
+#footerUL, p {
+	padding-left:0
+}
+
+#copyright {
+	padding-top: 2px;
+}
+
+.navbar-fixed-bottom, footer {
+    position: relative;
+	background-color: #000000;
+    text-align: center;
+    clear:both;
+	padding-top: 5px;
+	padding-bottom: 2px;
+}
