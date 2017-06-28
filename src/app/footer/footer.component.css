@@ -20,7 +20,6 @@
 }
 
 .navbar-fixed-bottom, footer {
-    position: relative;
 	background-color: #000000;
     text-align: center;
     clear:both;
